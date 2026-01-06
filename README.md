@@ -1,6 +1,6 @@
 # Vanguard A/B Test Analysis
 
-## Project Overview
+## 🧪 Project Overview
 
 This project analyzes the results of a digital A/B experiment conducted by Vanguard to evaluate whether a redesigned online user interface improves client experience and process completion. The experiment compares a traditional interface (Control group) with a redesigned version (Test group).
 
@@ -10,7 +10,7 @@ In addition to the core experiment evaluation, the project includes exploratory 
 
 ---
 
-## Tools
+## 🛠️ Tools
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
 - SQL
 - Tableau
@@ -18,23 +18,23 @@ In addition to the core experiment evaluation, the project includes exploratory 
 - Git & GitHub
 
 ---
-## Repository Structure
+## 📁 Repository Structure
 
 The repository contains the following folders and files:
 
-### 📁 data_raw
+###  data_raw
 Contains the original datasets provided for the project. These raw files are kept unchanged for reference and reproducibility.
 
-### 📁 data_clean
+###  data_clean
 Includes cleaned and processed datasets used for analysis. The cleaning steps applied to the raw data are documented in the notebooks.
 
-### 📁 figures
+###  figures
 Contains visual assets generated during the project, including charts from exploratory data analysis, diagrams created in Miro, and Entity Relationship Diagrams (ERD) used for SQL analysis and database understanding.
 
-### 📁 notebook
+###  notebook
 Holds the analysis notebooks used in the project. These notebooks contain the code for data cleaning, exploratory data analysis, metric calculations, hypothesis testing, and visualizations.
 
-## Project log
+## 📅 Project Log
 
 ### Day 1 – Dataset Discovery & Initial EDA
 - Loaded all datasets into Python.
