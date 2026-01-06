@@ -39,7 +39,6 @@ Holds the analysis notebooks used in the project. These notebooks contain the co
 ### Day 1 – Dataset Discovery & Initial EDA
 - Loaded all datasets into Python.
 - Explored dataset structure, data types, and key variables.
-- Reviewed metadata to understand client demographics and behavior.
 - Performed initial exploratory analysis using pandas.
 - Identified potential data quality issues.
 
@@ -49,7 +48,7 @@ Holds the analysis notebooks used in the project. These notebooks contain the co
 - Cleaned datasets and addressed missing or inconsistent values.
 - Merged datasets required for analysis.
 - Analyzed client demographics to identify primary users of the process.
-- Compared client age groups and tenure (new vs long-standing clients).
+- Compared client age groups and tenure.
 - Conducted initial client behavior analysis.
 
 ---
@@ -59,8 +58,8 @@ Holds the analysis notebooks used in the project. These notebooks contain the co
 - Defined key success metrics for the experiment.
 - Calculated completion rates for Test and Control groups.
 - Analyzed time spent on each step of the process.
-- Evaluated error rates based on backward navigation.
 - Compared performance between the new and old designs.
+- Reviewed error-related behavior across process steps.
 
 ---
 
@@ -98,11 +97,9 @@ Holds the analysis notebooks used in the project. These notebooks contain the co
 
 ---
 
-### Day 8 – Project Refinement & Bonus Tasks
+### Day 8 – Project Refinement
 - Reviewed all previous analyses and outputs.
 - Cleaned and organized notebooks and code.
-- Addressed optional bonus tasks where applicable.
-- Reviewed self-guided lessons on Streamlit and project organization.
 
 ---
 
