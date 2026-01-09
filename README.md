@@ -23,16 +23,38 @@ In addition to the core experiment evaluation, the project includes exploratory 
 The repository contains the following folders and files:
 
 ###  data_raw
-Contains the original datasets provided for the project. These raw files are kept unchanged for reference and reproducibility.
+Contains the original datasets provided for the project.
+These files are kept unchanged to ensure traceability, reproducibility, and transparency throughout the analysis process.
 
 ###  data_clean
 Includes cleaned and processed datasets used for analysis. The cleaning steps applied to the raw data are documented in the notebooks.
 
 ###  figures
-Contains visual assets generated during the project, including charts from exploratory data analysis, diagrams created in Miro, and Entity Relationship Diagrams (ERD) used for SQL analysis and database understanding.
+Contains visual assets generated during the project, including:
+Charts and plots from exploratory data analysis (EDA)
+Diagrams created in Miro
+Entity Relationship Diagrams (ERD) used for SQL analysis and database design understanding
+
+These visuals support both the analytical process and the final presentation of insights.
 
 ###  notebook
-Holds the analysis notebooks used in the project. These notebooks contain the code for data cleaning, exploratory data analysis, metric calculations, hypothesis testing, and visualizations.
+Holds the Jupyter notebooks used throughout the project.
+These notebooks include:
+Data cleaning and preprocessing
+Exploratory data analysis (EDA)
+Metric and KPI calculations
+Hypothesis testing
+Data visualizations and interpretations
+
+They represent the core analytical workflow of the project.
+
+### slides_and_tableau
+
+Contains the final presentation materials and interactive visualizations, including:
+The final project presentation in PDF format
+Tableau visualizations used to explore key metrics, compare Test vs Control groups, and support analytical findings
+
+This folder bridges the technical analysis with the storytelling and communication of results.
 
 ## 📅 Project Log
 
